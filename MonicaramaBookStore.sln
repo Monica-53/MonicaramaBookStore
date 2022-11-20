@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.32802.440
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonicaramaBookStore", "MonicaramaBookStore.csproj", "{A16ACC86-1CF7-486E-AC6D-88888BE2A181}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonicaramaBooks.DataAccess", "..\MonicaramaBooks.DataAccess\MonicaramaBooks.DataAccess.csproj", "{376A366F-4DDF-4211-98E7-C69B2FE1DD8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonicaramaBooks.Models", "..\MonicaramaBooks.Models\MonicaramaBooks.Models.csproj", "{8B4C7D69-2DDB-48E1-837F-EB65BD35B6A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonicaramaBooks.Utility", "..\MonicaramaBooks.Utility\MonicaramaBooks.Utility.csproj", "{86289661-AF17-4849-B83B-F05DB26EF7D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{A16ACC86-1CF7-486E-AC6D-88888BE2A181}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A16ACC86-1CF7-486E-AC6D-88888BE2A181}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A16ACC86-1CF7-486E-AC6D-88888BE2A181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{376A366F-4DDF-4211-98E7-C69B2FE1DD8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{376A366F-4DDF-4211-98E7-C69B2FE1DD8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{376A366F-4DDF-4211-98E7-C69B2FE1DD8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{376A366F-4DDF-4211-98E7-C69B2FE1DD8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B4C7D69-2DDB-48E1-837F-EB65BD35B6A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B4C7D69-2DDB-48E1-837F-EB65BD35B6A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B4C7D69-2DDB-48E1-837F-EB65BD35B6A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B4C7D69-2DDB-48E1-837F-EB65BD35B6A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86289661-AF17-4849-B83B-F05DB26EF7D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86289661-AF17-4849-B83B-F05DB26EF7D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86289661-AF17-4849-B83B-F05DB26EF7D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86289661-AF17-4849-B83B-F05DB26EF7D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
